@@ -1,4 +1,3 @@
 <x-layout>
-
-<h1>iuiyv</h1>
+    <h1>Dashboard</h1>
 </x-layout>
