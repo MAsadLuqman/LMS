@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ asset('assets/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
     <!-- Modernize js -->
     <script src="{{ asset('assets/js/modernizr-3.6.0.min.js') }}"></script>
 </head>
@@ -68,6 +69,10 @@
 <script src="{{ asset('assets/js/Chart.min.js') }}"></script>
 <!-- Custom Js -->
 <script src="{{ asset('assets/js/main.js') }}"></script>
+<!-- jQuery (required) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Toastr JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
 </body>
 </html>
